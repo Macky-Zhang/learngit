@@ -12,3 +12,4 @@ Git is a distributed version control system.
 Git is free software.
 我们是共产主义的接班人
 迎着革命前辈的光荣传统
+爱祖国，在人民
