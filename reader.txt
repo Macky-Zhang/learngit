@@ -5,7 +5,7 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software.
 Git is a distributed version control system.
-Git is free software.
+这一行需要修改
 Git is a distributed version control system.
 Git is free software.
 Git is a distributed version control system.
@@ -14,3 +14,4 @@ Git is free software.
 迎着革命前辈的光荣传统
 爱祖国，爱人民，
 鲜艳的红领巾照耀着前进
+继续编写，试试“存储”
